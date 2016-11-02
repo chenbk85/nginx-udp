@@ -2,7 +2,7 @@
 
 ### Requirements
 
-* tengine 2.2.0
+* tengine 2.1.2+
 
 ### Installation
 
